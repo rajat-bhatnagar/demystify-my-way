@@ -16,7 +16,7 @@
         <!-- Spring Boot -->
         <spring.boot.version>1.4.2.RELEASE</spring.boot.version>
         <!-- Spring -->
-        <spring.version>4.3.2.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
         <!--Spring Rabbit -->
         <spring.rabbit.version>1.5.4.RELEASE</spring.rabbit.version>
         <!-- Version numbers of dependencies are specified here -->
